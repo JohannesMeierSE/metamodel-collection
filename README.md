@@ -24,6 +24,13 @@ Metamodel to describe Abstract Syntaxt/Semantic Graphs (ASGs) for programming la
 
 * metamodel, code, and one visualization: https://github.com/JohannesMeierSE/ASGFramework
 
+Metamodel of Ecore itself
+
+* After `git clone https://git.eclipse.org/r/emf/org.eclipse.emf`, you will find the `Ecore.ecore` in the folder `sources/org.eclipse.emf/plugins/org.eclipse.emf.ecore/model` (together with some old ecore visualizations)
+* Some other visualizations of the Ecore metamodel can be found here:
+    * http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html (scroll down!)
+    * http://cedric.brun.io/eclipse/ecore-ecore-diagrams/
+
 
 
 # Tools to visualize EMF ...
@@ -34,3 +41,4 @@ metamodels
 models
 * https://github.com/JohannesMeierSE/emf-plantuml-visualization
 * https://github.com/JohannesMeierSE/funnyqt-visualization
+* http://emftools.tuxfamily.org/wiki/doku.php?id=emf2gv:start, http://marketplace.eclipse.org/content/emf-graphviz-emf2gv
