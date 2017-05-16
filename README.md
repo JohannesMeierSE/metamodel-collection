@@ -30,7 +30,7 @@ Metamodel of Ecore itself
 * Some other visualizations of the Ecore metamodel can be found here:
     * http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html (scroll down!)
     * http://cedric.brun.io/eclipse/ecore-ecore-diagrams/
-
+    * http://www.monperrus.net/martin/the-class-diagram-of-the-ecore-metamodel.pdf
 
 
 # Tools to visualize EMF ...
